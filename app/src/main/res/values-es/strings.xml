@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nombre | Edad</string>
+    <string name="edad">Edad</string>
+    <string name="nombre">Nombre</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+</resources>

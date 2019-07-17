@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Name | Age</string>
+    <string name="nombre">Name</string>
+    <string name="verde">Green</string>
+    <string name="edad">Age</string>
+    <string name="rojo">Red</string>
+</resources>
